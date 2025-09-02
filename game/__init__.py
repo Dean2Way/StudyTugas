@@ -1,0 +1,1 @@
+print('INI game/__init.py__')

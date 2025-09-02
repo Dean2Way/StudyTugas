@@ -1,0 +1,1 @@
+print('INI DARI game/Image/__init__.py')

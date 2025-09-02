@@ -1,0 +1,1 @@
+print('INI DARI game/Sound/__init__.py')

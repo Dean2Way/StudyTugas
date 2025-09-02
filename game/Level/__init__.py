@@ -1,0 +1,1 @@
+print('INI DARI game/Level/__init__.py')
